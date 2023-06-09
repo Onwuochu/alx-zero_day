@@ -1,9 +1,2 @@
 !#/bin/bash
-<<<<<<< HEAD
-echo "ALX School is cool!
-"
-=======
 echo "ALX School"
-
->>>>>>> update_script
- "cool all my changes will be now part of main branch,ready to deployed!"
